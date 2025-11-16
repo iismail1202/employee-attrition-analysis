@@ -1,4 +1,4 @@
-# 🧠 HR Analytics: Predicting Employee Attrition (IBM HR)
+#  HR Analytics: Predicting Employee Attrition (IBM HR)
 
 **Author:** Ismail Ismail  
 **Stack:** Python (pandas, seaborn, scikit-learn, matplotlib), Jupyter  
